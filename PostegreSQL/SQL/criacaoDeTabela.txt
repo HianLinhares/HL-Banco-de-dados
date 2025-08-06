@@ -1,0 +1,8 @@
+create table usuarios(
+id SERIAL PRIMARY KEY,
+nome VARCHAR (50) NOT NULL,
+email VARCHAR(100) UNIQUE NOT NULL,
+idade INT,
+data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+

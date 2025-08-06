@@ -1,0 +1,12 @@
+select * from usuarios;
+
+// consulta de todas as informações da tabela usuários
+
+
+select nome from usuarios;
+
+// consulta de todos os nomes da tabela usuários
+
+select idade from usuários;
+
+// consulta de todas as idades da tabela usuários

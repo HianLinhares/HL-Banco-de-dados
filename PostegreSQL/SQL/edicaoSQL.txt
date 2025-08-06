@@ -1,0 +1,11 @@
+update usuarios set nome = 'Julia' where nome = 'Juia';
+
+// edição para o nome Julia onde o nome for Juia
+
+update usuarios set idade = 18 where nome = 'Hiuri';
+
+// edição para a idade 18 onde o nome for Hiuri
+
+update usuarios set email = 'hiurilinharesgmail.com' where nome = 'Hiuri';
+
+//edição do email para onde o nome for Hiuri

@@ -1,0 +1,4 @@
+DELETE FROM usuarios Where nome = 'Douglas';
+
+// Excluir da tabela usuários onde o nome for igual a Douglas
+

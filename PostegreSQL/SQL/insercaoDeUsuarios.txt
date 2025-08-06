@@ -1,0 +1,2 @@
+insert into usuarios(nome, email, idade)
+values ('Hian','hianfernando@hotmail.com', '24');

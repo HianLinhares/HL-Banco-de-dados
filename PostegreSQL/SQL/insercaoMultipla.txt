@@ -1,0 +1,6 @@
+INSERT INTO usuarios (nome, email, idade)
+VALUES
+('Hiuri', 'hiuri@gmail.com', 17),
+('Beatriz', 'bfgouveia@gmail.com', 37),
+('Juia', 'Julia@gmail.com', 27),
+('Douglas', 'dMartini@gmail.com', 32);
