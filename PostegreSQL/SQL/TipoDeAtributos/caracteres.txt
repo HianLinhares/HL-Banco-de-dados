@@ -1,0 +1,5 @@
+| Tipo         | Descrição                              |
+| ------------ | -------------------------------------- |
+| `char(n)`    | Texto com comprimento fixo             |
+| `varchar(n)` | Texto com comprimento variável         |
+| `text`       | Texto de qualquer tamanho (sem limite) |

@@ -1,0 +1,3 @@
+ALTER TABLE cupons drop colun comecaavaler;
+
+// deletando a coluna comecaavaler;

@@ -1,0 +1,3 @@
+alter table cupons add column validade date
+
+// alterando a tabela cupons adicionando a coluna validade do tipo date

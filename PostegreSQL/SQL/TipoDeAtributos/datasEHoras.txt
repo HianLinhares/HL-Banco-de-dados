@@ -1,0 +1,7 @@
+| Tipo          | Descrição                      |
+| ------------- | ------------------------------ |
+| `date`        | Apenas data (YYYY-MM-DD)       |
+| `time`        | Apenas hora                    |
+| `timestamp`   | Data e hora (sem fuso horário) |
+| `timestamptz` | Data e hora com fuso horário   |
+| `interval`    | Período de tempo (ex: 2 dias)  |

@@ -1,0 +1,9 @@
+| Tipo                            | Descrição                    | Alias / Tamanho           |
+| ------------------------------- | ---------------------------- | ------------------------- |
+| `smallint`                      | Inteiro pequeno              | 2 bytes (até ±32.767)     |
+| `integer` ou `int`              | Inteiro comum                | 4 bytes (±2 bilhões)      |
+| `bigint`                        | Inteiro grande               | 8 bytes                   |
+| `decimal(p,s)` / `numeric(p,s)` | Número exato com precisão    | Tamanho variável          |
+| `real`                          | Ponto flutuante simples      | 4 bytes                   |
+| `double precision`              | Ponto flutuante duplo        | 8 bytes                   |
+| `serial` / `bigserial`          | Inteiros auto incrementáveis | 4/8 bytes respectivamente |

@@ -1,0 +1,3 @@
+| Tipo    | Descrição       |
+| ------- | --------------- |
+| `money` | Valor monetário |

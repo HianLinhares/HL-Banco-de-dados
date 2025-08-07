@@ -1,0 +1,3 @@
+| Tipo      | Descrição                              |
+| --------- | -------------------------------------- |
+| `boolean` | Verdadeiro (`true`) ou Falso (`false`) |
